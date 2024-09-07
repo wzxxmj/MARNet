@@ -1,2 +1,2 @@
 # MARNet
-A Multiple-Attention Refinement Network For RGB-D Salient Obj
+A Multiple-Attention Refinement Network For RGB-D Salient Object Detection
